@@ -16,8 +16,9 @@ mx_records: es verdadero si encontramos que existen registros MX en el dominio d
 smtp_server: es verdadero si nos conectamos al servidor SMTP con éxito.
 smtp_check: es verdadero si la dirección de correo electrónico no rebota.
 accept_all: es verdadero si el servidor SMTP acepta todas las direcciones de correo electrónico. Esto significa que puede tener falsos positivos en las comprobaciones SMTP.
-Bloque:   es verdadero si el servidor SMTP nos impidió realizar la comprobación STMP.
+Bloque: es verdadero si el servidor SMTP nos impidió realizar la comprobación STMP.
 fuentes: Si hemos encontrado la dirección de correo electrónico dada en algún lugar de la web, mostramos las fuentes aquí. El número de fuentes está limitado a 20. 
-         El atributo extracted_on contiene la fecha en que se encontró por primera vez, mientras que el atributo last_seen_on contiene la fecha en que se encontró por última vez.
+
+El atributo extracted_on contiene la fecha en que se encontró por primera vez, mientras que el atributo last_seen_on contiene la fecha en que se encontró por última vez.
 
 Tenga en cuenta que esta llamada a la API está limitada a 300 solicitudes por minuto, con "tics" de 10 solicitudes por segundo.

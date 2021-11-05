@@ -1,0 +1,240 @@
+C:\Users\Personal 1>ipconfig /displaydns
+
+Configuración IP de Windows
+
+    user-images.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 63
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 63
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 63
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 63
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.133
+
+
+    activity.windows.com
+    ----------------------------------------
+    Nombre de registro  . : activity.windows.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 16
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : activity-geo.trafficmanager.net
+
+
+    Nombre de registro  . : activity-geo.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 16
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 13.68.233.9
+
+
+    pcdn.brave.com
+    ----------------------------------------
+    Nombre de registro  . : pcdn.brave.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 6
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : 668f2b9105c3407b96acf98b20d8ea95.pacloudflare.com
+
+
+    Nombre de registro  . : 668f2b9105c3407b96acf98b20d8ea95.pacloudflare.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 6
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.65.10.226
+
+
+    github.com
+    ----------------------------------------
+    Nombre de registro  . : github.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 140.82.113.3
+
+
+    raw.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : raw.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1241
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.133
+
+
+    Nombre de registro  . : raw.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1241
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.133
+
+
+    Nombre de registro  . : raw.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1241
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.133
+
+
+    Nombre de registro  . : raw.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1241
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.133
+
+
+    speedtest.neoclan.net.prod.hosts.ooklaserver.net
+    ----------------------------------------
+    Nombre de registro  . : speedtest.neoclan.net.prod.hosts.ooklaserver.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 2616
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : speedtest.neoclan.net
+
+
+    Nombre de registro  . : speedtest.neoclan.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2616
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 201.158.32.2
+
+
+    187.190.244.18.prod.hosts.ooklaserver.net
+    ----------------------------------------
+    Nombre de registro  . : 187.190.244.18.prod.hosts.ooklaserver.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 9105
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 187.190.244.18
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 3031
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 3031
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 3031
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 3031
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.133
+
+
+    array604.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array604.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2174
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 51.104.162.168
+
+
+    viewscreen.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : viewscreen.githubusercontent.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 27
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : glb-db52c2cf8be544.github.com
+
+
+    Nombre de registro  . : glb-db52c2cf8be544.github.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 27
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 140.82.114.21
+
+
+    github.githubassets.com
+    ----------------------------------------
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1407
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1407
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1407
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1407
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.154
